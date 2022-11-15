@@ -1,3 +1,4 @@
+export {}
 let deepClone = require('../utils')
 
 let map = [

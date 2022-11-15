@@ -1,5 +1,7 @@
-const _deepClone = (obj:any) =>{
+export {}
+
+let deepCLone = (obj:any) =>{
   return JSON.parse(JSON.stringify(obj))
 }
 
-module.exports = _deepClone
+module.exports = deepCLone
