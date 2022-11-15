@@ -1,0 +1,7 @@
+• The 3 teachers predicted a student competition. Their predictions are as follows:
+• A said: student A is the first, student B is the third.
+• B said: Student C was the first and student D was the
+fourth.
+• C said: Student D is the second, student A is the third.
+• The results show that they are half right, and half wrong with no ranking .
+• Try to program the input a, b, c, d their respective rankings .
